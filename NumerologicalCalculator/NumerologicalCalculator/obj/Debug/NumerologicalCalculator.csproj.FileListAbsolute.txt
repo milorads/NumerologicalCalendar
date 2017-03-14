@@ -1,0 +1,1 @@
+c:\users\milor\documents\visual studio 2015\Projects\NumerologicalCalculator\NumerologicalCalculator\bin\Debug\NumerologicalCalculator.exe.config

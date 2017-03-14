@@ -1,0 +1,14 @@
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\bin\Debug\Numerological Calendar.exe.config
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\bin\Debug\Numerological Calendar.exe
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\bin\Debug\Numerological Calendar.pdb
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar.csprojResolveAssemblyReference.cache
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\MainWindow.g.cs
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\App.g.cs
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar_MarkupCompile.cache
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar_MarkupCompile.lref
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\MainWindow.baml
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar.g.resources
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological_Calendar.Properties.Resources.resources
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar.csproj.GenerateResource.Cache
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar.exe
+c:\users\milor\documents\visual studio 2015\Projects\Numerological Calendar\Numerological Calendar\obj\Debug\Numerological Calendar.pdb
