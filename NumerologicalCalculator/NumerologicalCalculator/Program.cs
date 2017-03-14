@@ -11,6 +11,7 @@ namespace NumerologicalCalculator
         private static DateTime startDate;
         private static DateTime endDate;
         private static Dictionary<DateTime, int> listOfCalculatedDates;
+        private static Dictionary<DateTime, int> listOfFilteredDates = new Dictionary<DateTime, int>();
 
         static void Main(string[] args)
         {
@@ -31,6 +32,7 @@ namespace NumerologicalCalculator
                     if (dateIntPair.Value ==desiredNumber)
                     {
                         Console.WriteLine(dateIntPair.Key.ToLongDateString());
+                        listOfFilteredDates.Add(dateIntPair.Key, dateIntPair.Value);
                     }
                 }
             }
@@ -40,12 +42,32 @@ namespace NumerologicalCalculator
                 {
                         Console.Write(dateIntPair.Key.ToLongDateString());
                     Console.WriteLine(" - This day has value: "+ dateIntPair.Value.ToString());
+                    listOfFilteredDates.Add(dateIntPair.Key, dateIntPair.Value);
                 }
             }
             else
             {
                 Console.WriteLine("Wrong number input");
+                // exit here
             }
+            Console.WriteLine("Filter by the day of the week (1-7)");
+            var filterInput = Console.ReadLine();
+            var filter = int.Parse(filterInput);
+            if (filter > 0 && filter < 8)
+            {
+                if (filter == 7)
+                    filter = 0;
+                var a = DayOfWeek.GetName(typeof(DayOfWeek), filter);
+                foreach (var dateIntPair in listOfFilteredDates)
+                {
+                    if (dateIntPair.Key.DayOfWeek == (DayOfWeek)filter)
+                    {
+                        Console.WriteLine(dateIntPair.Key.ToShortDateString() + ": "+ dateIntPair.Value + ". Day: "+(DayOfWeek)filter);
+                    }
+                }
+            }
+
+            Console.WriteLine("You can now read the info about the date's number here: http://www.whats-your-sign.com/todays-numbers.html");
             Console.Read();
         }
 
