@@ -1,1 +1,7 @@
 c:\users\milor\documents\visual studio 2015\Projects\NumerologicalCalculator\NumerologicalCalculator\bin\Debug\NumerologicalCalculator.exe.config
+C:\Users\milor\Documents\Visual Studio 2015\Projects\Num Calc\NumerologicalCalculator\NumerologicalCalculator\bin\Debug\NumerologicalCalculator.exe.config
+C:\Users\milor\Documents\Visual Studio 2015\Projects\Num Calc\NumerologicalCalculator\NumerologicalCalculator\bin\Debug\NumerologicalCalculator.exe
+C:\Users\milor\Documents\Visual Studio 2015\Projects\Num Calc\NumerologicalCalculator\NumerologicalCalculator\bin\Debug\NumerologicalCalculator.pdb
+C:\Users\milor\Documents\Visual Studio 2015\Projects\Num Calc\NumerologicalCalculator\NumerologicalCalculator\obj\Debug\NumerologicalCalculator.csprojResolveAssemblyReference.cache
+C:\Users\milor\Documents\Visual Studio 2015\Projects\Num Calc\NumerologicalCalculator\NumerologicalCalculator\obj\Debug\NumerologicalCalculator.exe
+C:\Users\milor\Documents\Visual Studio 2015\Projects\Num Calc\NumerologicalCalculator\NumerologicalCalculator\obj\Debug\NumerologicalCalculator.pdb
